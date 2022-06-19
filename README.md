@@ -1,3 +1,3 @@
 # vld
 text desc
-new string
+new string d
